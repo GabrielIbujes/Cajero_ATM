@@ -1,0 +1,39 @@
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.exe.config
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.exe
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.pdb
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.FormAtm.resources
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.Properties.Resources.resources
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.exe
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.pdb
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.FormRegistro.resources
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\bin\Debug\MyLibreria.dll
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\bin\Debug\MyLibreria.pdb
+C:\Users\Daniela\source\repos\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.exe.config
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.exe
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.pdb
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\MyLibreria.dll
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\MyLibreria.pdb
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.FormAtm.resources
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.FormRegistro.resources
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.exe
+C:\Users\Usuario\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.pdb
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.exe.config
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.exe
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\Cajero_BDD.pdb
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\MyLibreria.dll
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\bin\Debug\MyLibreria.pdb
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.FormAtm.resources
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.FormRegistro.resources
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.exe
+C:\Users\ASUS\Desktop\Cajero\Cajero_BDD (1)\Cajero_BDD\Cajero_BDD\obj\Debug\Cajero_BDD.pdb
