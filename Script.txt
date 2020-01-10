@@ -1,0 +1,101 @@
+create database CajeroAutomatico1
+
+use cajeroautomatico1
+
+create table usuario(
+	
+	nombreUsuario varchar(50) not null,
+	apellidoUsuario varchar(50) not null,
+	claveUsuario int primary key not null,
+	saldo int not null
+)
+
+
+
+create table deposito(
+	idDeposito int primary key identity not null,
+	montoDeposito int not null,
+	claveUsuario int FOREIGN KEY REFERENCES usuario(claveUsuario)
+)
+
+create table retiro(
+	idRetiro int primary key identity not null,
+	montoRetiro int not null,
+	claveUsuario int FOREIGN KEY REFERENCES usuario(claveUsuario)
+)
+
+
+
+
+
+/*------------------------------------------*/
+
+CREATE PROCEDURE proc_registrarUsuario
+	   @nombreUsuario varchar(50),
+	   @apellidoUsuario varchar(50),
+	   @claveUsuario int,
+	   @saldo int 
+	 
+AS
+INSERT INTO usuario (nombreUsuario, apellidoUsuario, claveUsuario, saldo)
+    VALUES (@nombreUsuario, @apellidoUsuario,  @claveUsuario, @saldo)
+ 
+
+
+
+exec proc_registrarUsuario
+	   @nombreUsuario= 'G',
+	   @apellidoUsuario= 'Ibujes',
+	   @claveUsuario= 12345,
+	   @saldo= 500
+
+/*PROCEDIMIENTOS PARA DEPOSITO*/
+
+CREATE PROCEDURE proc_deposito
+        @montoDeposito INT,
+		@claveUsuario int
+as 
+insert into deposito(montoDeposito,claveUsuario)
+values(@montoDeposito, @claveUsuario)
+
+exec proc_deposito 120, 123456
+
+
+/*PROCEDIMIENTO RETIRO*/
+CREATE PROCEDURE proc_retiro1
+        @montoRetiro INT,
+		@claveUsuario int,
+		@saldoActual int
+as 
+
+insert into retiro(montoRetiro,claveUsuario)
+values(@montoRetiro, @claveUsuario)
+
+update usuario 
+set saldo=@saldoActual
+where claveUsuario=@claveUsuario 
+exec proc_retiro 120, 12345
+
+
+select * from retiro
+
+
+/*procedimiento saldo actual*/
+
+create proc Retiro
+@montoRetiro
+/*proc deposito*/
+CREATE PROCEDURE proc_deposito1
+        @montoDeposito INT,
+		@claveUsuario int,
+		@saldoActual int
+as 
+
+insert into deposito(montoDeposito,claveUsuario)
+values(@montoDeposito, @claveUsuario)
+
+update usuario 
+set saldo=@saldoActual
+where claveUsuario=@claveUsuario 
+
+select * from usuario
